@@ -1,0 +1,10 @@
+﻿ClaseA:2022:Mercedes:140:28000:Trasera:Alemania:Diesel:
+Leon:2022:Seat:120:25000:Delantera:Alemania:Diesel:
+Stelvio:2022:AlfaRomeo:210:53000:Cuatro:Italia:Gasolina:
+Formentor:2022:Cupra:320:40000:Cuatro:España:Gasolina:
+Megane:2020:Renault:90:19000:Delantera:Francia:Gasolina:
+GolfGTI:2022:Volkswagen:300:44000:Cuatro:Alemania:Gasolina:
+I30N:2022:Hyundai:350:35000:Cuatro:Corea:Gasolina:
+308:2022:Peugeot:120:25000:Delantera:Francia:Gasolina:
+RS3:2021:Audi:350:77000:Cuatro:Alemania:Gasolina:
+C-HR:2021:Toyota:120:30000:Trasera:Japon:Gasolina:

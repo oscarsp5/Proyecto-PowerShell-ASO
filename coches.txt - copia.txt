@@ -1,0 +1,11 @@
+RS3:2021:Audi:350:77,000:Cuatro:Alemania:Gasolina
+ClaseA:2021:Mercedes:150:28,000:Trasera:Alemania:Diesel
+Leon:2022:Seat:120:25,000:Delantera:Alemania:Diesel
+Stelvio:2022:AlfaRomeo:210:53,000:Cuatro:Italia:Gasolina
+Megane:2020:Renault:90:19,000:Delantera:Francia:Gasolina
+308:2022:Peugeot:120:25,000:Delantera:Francia:Gasolina
+C-HR:2021:Toyota:120:30,000:Trasera:Japon:Gasolina
+I30N:2022:Hyundai:350:35,000:Cuatro:Corea:Gasolina
+GolfGTI:2022:Volkswagen:300:44,000:Cuatro:Alemania:Gasolina
+Formentor:2022:Cupra:320:40,000:Cuatro:España:Gasolina
+
