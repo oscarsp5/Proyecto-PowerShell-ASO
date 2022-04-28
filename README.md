@@ -23,7 +23,7 @@ Contiene un menu con distintas opciones para nuestra tabla hash, las cuales son:
         </ul>
   </ul>
    <li>Modificar elemento</li>
-    <li>Salir</li>
+    <li>Salir y Guardar</li>
   </ul>
 
 
