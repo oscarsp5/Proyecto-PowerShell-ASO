@@ -20,9 +20,10 @@ Contiene un menu con distintas opciones para nuestra tabla hash, las cuales son:
         <li>Consultar por pais</li>
         <li>Consultar por precio</li>
         <li>Consultar por traccion</li>
-  	    </ul>
-    <li>Modificar elemento</li>
+        </ul>
+  </ul>
+   <li>Modificar elemento</li>
     <li>Salir</li>
-</ul>
+  </ul>
 
 
